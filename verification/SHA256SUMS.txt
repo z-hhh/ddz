@@ -1,0 +1,2 @@
+c643814a32c94e127f19e72bf87e03caec3d22b73c6be8ef3a49f3f0ccd019e1  /work/dist/doudizhu-v1.8.0-arm64.apk
+0f030c95c5b14ff70a6cb7688a150770c76cbdf91cba7730ad858cec6f92976d  /work/dist/doudizhu-v1.8.0-armv7.apk

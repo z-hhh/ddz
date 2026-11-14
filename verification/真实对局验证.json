@@ -1,0 +1,370 @@
+{
+  "aiGame": {
+    "steps": 52,
+    "bid": 3,
+    "multiplier": 2,
+    "bombCount": 1,
+    "springApplied": false,
+    "winner": 0,
+    "landlord": 0,
+    "scores": [
+      12,
+      -6,
+      -6
+    ],
+    "remaining": [
+      0,
+      2,
+      2
+    ],
+    "actions": [
+      {
+        "seat": 0,
+        "action": "play",
+        "cards": [
+          19
+        ]
+      },
+      {
+        "seat": 1,
+        "action": "play",
+        "cards": [
+          27
+        ]
+      },
+      {
+        "seat": 2,
+        "action": "play",
+        "cards": [
+          32
+        ]
+      },
+      {
+        "seat": 0,
+        "action": "play",
+        "cards": [
+          38
+        ]
+      },
+      {
+        "seat": 1,
+        "action": "play",
+        "cards": [
+          43
+        ]
+      },
+      {
+        "seat": 2,
+        "action": "play",
+        "cards": [
+          49
+        ]
+      },
+      {
+        "seat": 0,
+        "action": "play",
+        "cards": [
+          52
+        ]
+      },
+      {
+        "seat": 1,
+        "action": "pass",
+        "cards": []
+      },
+      {
+        "seat": 2,
+        "action": "play",
+        "cards": [
+          20,
+          21,
+          22,
+          23
+        ]
+      },
+      {
+        "seat": 0,
+        "action": "pass",
+        "cards": []
+      },
+      {
+        "seat": 1,
+        "action": "pass",
+        "cards": []
+      },
+      {
+        "seat": 2,
+        "action": "play",
+        "cards": [
+          34,
+          35,
+          37,
+          39,
+          40,
+          41
+        ]
+      },
+      {
+        "seat": 0,
+        "action": "pass",
+        "cards": []
+      },
+      {
+        "seat": 1,
+        "action": "pass",
+        "cards": []
+      },
+      {
+        "seat": 2,
+        "action": "play",
+        "cards": [
+          0,
+          3
+        ]
+      },
+      {
+        "seat": 0,
+        "action": "play",
+        "cards": [
+          4,
+          7
+        ]
+      },
+      {
+        "seat": 1,
+        "action": "play",
+        "cards": [
+          10,
+          11
+        ]
+      },
+      {
+        "seat": 2,
+        "action": "pass",
+        "cards": []
+      },
+      {
+        "seat": 0,
+        "action": "play",
+        "cards": [
+          25,
+          26
+        ]
+      },
+      {
+        "seat": 1,
+        "action": "play",
+        "cards": [
+          44,
+          46
+        ]
+      },
+      {
+        "seat": 2,
+        "action": "pass",
+        "cards": []
+      },
+      {
+        "seat": 0,
+        "action": "pass",
+        "cards": []
+      },
+      {
+        "seat": 1,
+        "action": "play",
+        "cards": [
+          12,
+          13
+        ]
+      },
+      {
+        "seat": 2,
+        "action": "pass",
+        "cards": []
+      },
+      {
+        "seat": 0,
+        "action": "play",
+        "cards": [
+          28,
+          30
+        ]
+      },
+      {
+        "seat": 1,
+        "action": "play",
+        "cards": [
+          48,
+          51
+        ]
+      },
+      {
+        "seat": 2,
+        "action": "pass",
+        "cards": []
+      },
+      {
+        "seat": 0,
+        "action": "pass",
+        "cards": []
+      },
+      {
+        "seat": 1,
+        "action": "play",
+        "cards": [
+          17,
+          18
+        ]
+      },
+      {
+        "seat": 2,
+        "action": "pass",
+        "cards": []
+      },
+      {
+        "seat": 0,
+        "action": "play",
+        "cards": [
+          45,
+          47
+        ]
+      },
+      {
+        "seat": 1,
+        "action": "pass",
+        "cards": []
+      },
+      {
+        "seat": 2,
+        "action": "pass",
+        "cards": []
+      },
+      {
+        "seat": 0,
+        "action": "play",
+        "cards": [
+          8,
+          9
+        ]
+      },
+      {
+        "seat": 1,
+        "action": "pass",
+        "cards": []
+      },
+      {
+        "seat": 2,
+        "action": "pass",
+        "cards": []
+      },
+      {
+        "seat": 0,
+        "action": "play",
+        "cards": [
+          15
+        ]
+      },
+      {
+        "seat": 1,
+        "action": "play",
+        "cards": [
+          29
+        ]
+      },
+      {
+        "seat": 2,
+        "action": "pass",
+        "cards": []
+      },
+      {
+        "seat": 0,
+        "action": "play",
+        "cards": [
+          33
+        ]
+      },
+      {
+        "seat": 1,
+        "action": "play",
+        "cards": [
+          36
+        ]
+      },
+      {
+        "seat": 2,
+        "action": "pass",
+        "cards": []
+      },
+      {
+        "seat": 0,
+        "action": "play",
+        "cards": [
+          42
+        ]
+      },
+      {
+        "seat": 1,
+        "action": "pass",
+        "cards": []
+      },
+      {
+        "seat": 2,
+        "action": "pass",
+        "cards": []
+      },
+      {
+        "seat": 0,
+        "action": "play",
+        "cards": [
+          31
+        ]
+      },
+      {
+        "seat": 1,
+        "action": "pass",
+        "cards": []
+      },
+      {
+        "seat": 2,
+        "action": "pass",
+        "cards": []
+      },
+      {
+        "seat": 0,
+        "action": "play",
+        "cards": [
+          50
+        ]
+      },
+      {
+        "seat": 1,
+        "action": "pass",
+        "cards": []
+      },
+      {
+        "seat": 2,
+        "action": "pass",
+        "cards": []
+      },
+      {
+        "seat": 0,
+        "action": "play",
+        "cards": [
+          53
+        ]
+      }
+    ]
+  },
+  "springGame": {
+    "steps": 19,
+    "scores": [
+      12,
+      -6,
+      -6
+    ],
+    "bid": 3,
+    "multiplier": 2,
+    "bombCount": 0,
+    "springApplied": true
+  }
+}

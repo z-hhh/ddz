@@ -1,0 +1,406 @@
+{
+  "code_commit": "718a5c920bf3361e34178a38f3b80458e176b351",
+  "mirror_commit": "57b3914046c2a0877016b8b8830fd07cf5b0ba08",
+  "format": "DZ01, Float32 LE, input-major weights, no quantization",
+  "roles": {
+    "landlord": {
+      "url": "https://huggingface.co/palemoky/douzero-baselines/resolve/57b3914046c2a0877016b8b8830fd07cf5b0ba08/checkpoints/douzero_WP/landlord.ckpt",
+      "checkpoint_sha256": "132e26479fcb69f457ddbf1ad32a7bdc3aa73cde80a28cc91f29a62c6075955a",
+      "binary_sha256": "7aa1ab96226ad23faf0eb0cabda1f3a8a8497499ba32105df948147259af34e5",
+      "bytes": 5831576,
+      "parameters": 1457665,
+      "tensors": [
+        {
+          "name": "lstm.weight_ih_l0",
+          "shape": [
+            162,
+            512
+          ],
+          "length": 82944
+        },
+        {
+          "name": "lstm.weight_hh_l0",
+          "shape": [
+            128,
+            512
+          ],
+          "length": 65536
+        },
+        {
+          "name": "lstm.bias_ih_l0",
+          "shape": [
+            512
+          ],
+          "length": 512
+        },
+        {
+          "name": "lstm.bias_hh_l0",
+          "shape": [
+            512
+          ],
+          "length": 512
+        },
+        {
+          "name": "dense1.weight",
+          "shape": [
+            501,
+            512
+          ],
+          "length": 256512
+        },
+        {
+          "name": "dense1.bias",
+          "shape": [
+            512
+          ],
+          "length": 512
+        },
+        {
+          "name": "dense2.weight",
+          "shape": [
+            512,
+            512
+          ],
+          "length": 262144
+        },
+        {
+          "name": "dense2.bias",
+          "shape": [
+            512
+          ],
+          "length": 512
+        },
+        {
+          "name": "dense3.weight",
+          "shape": [
+            512,
+            512
+          ],
+          "length": 262144
+        },
+        {
+          "name": "dense3.bias",
+          "shape": [
+            512
+          ],
+          "length": 512
+        },
+        {
+          "name": "dense4.weight",
+          "shape": [
+            512,
+            512
+          ],
+          "length": 262144
+        },
+        {
+          "name": "dense4.bias",
+          "shape": [
+            512
+          ],
+          "length": 512
+        },
+        {
+          "name": "dense5.weight",
+          "shape": [
+            512,
+            512
+          ],
+          "length": 262144
+        },
+        {
+          "name": "dense5.bias",
+          "shape": [
+            512
+          ],
+          "length": 512
+        },
+        {
+          "name": "dense6.weight",
+          "shape": [
+            512,
+            1
+          ],
+          "length": 512
+        },
+        {
+          "name": "dense6.bias",
+          "shape": [
+            1
+          ],
+          "length": 1
+        }
+      ],
+      "reference_output_range": [
+        -2.215388298034668,
+        2.8947625160217285
+      ]
+    },
+    "landlord_down": {
+      "url": "https://huggingface.co/palemoky/douzero-baselines/resolve/57b3914046c2a0877016b8b8830fd07cf5b0ba08/checkpoints/douzero_WP/landlord_down.ckpt",
+      "checkpoint_sha256": "964720faf583f4905662c94aaf73b1a97352b76ae3686fcc949beabbacdd95d1",
+      "binary_sha256": "1149db821c76103370ae5e82228905c55ac8ea0bcca1869ae967aebe18dd7f90",
+      "bytes": 6058912,
+      "parameters": 1514497,
+      "tensors": [
+        {
+          "name": "lstm.weight_ih_l0",
+          "shape": [
+            162,
+            512
+          ],
+          "length": 82944
+        },
+        {
+          "name": "lstm.weight_hh_l0",
+          "shape": [
+            128,
+            512
+          ],
+          "length": 65536
+        },
+        {
+          "name": "lstm.bias_ih_l0",
+          "shape": [
+            512
+          ],
+          "length": 512
+        },
+        {
+          "name": "lstm.bias_hh_l0",
+          "shape": [
+            512
+          ],
+          "length": 512
+        },
+        {
+          "name": "dense1.weight",
+          "shape": [
+            612,
+            512
+          ],
+          "length": 313344
+        },
+        {
+          "name": "dense1.bias",
+          "shape": [
+            512
+          ],
+          "length": 512
+        },
+        {
+          "name": "dense2.weight",
+          "shape": [
+            512,
+            512
+          ],
+          "length": 262144
+        },
+        {
+          "name": "dense2.bias",
+          "shape": [
+            512
+          ],
+          "length": 512
+        },
+        {
+          "name": "dense3.weight",
+          "shape": [
+            512,
+            512
+          ],
+          "length": 262144
+        },
+        {
+          "name": "dense3.bias",
+          "shape": [
+            512
+          ],
+          "length": 512
+        },
+        {
+          "name": "dense4.weight",
+          "shape": [
+            512,
+            512
+          ],
+          "length": 262144
+        },
+        {
+          "name": "dense4.bias",
+          "shape": [
+            512
+          ],
+          "length": 512
+        },
+        {
+          "name": "dense5.weight",
+          "shape": [
+            512,
+            512
+          ],
+          "length": 262144
+        },
+        {
+          "name": "dense5.bias",
+          "shape": [
+            512
+          ],
+          "length": 512
+        },
+        {
+          "name": "dense6.weight",
+          "shape": [
+            512,
+            1
+          ],
+          "length": 512
+        },
+        {
+          "name": "dense6.bias",
+          "shape": [
+            1
+          ],
+          "length": 1
+        }
+      ],
+      "reference_output_range": [
+        1.1654201745986938,
+        1.7335819005966187
+      ]
+    },
+    "landlord_up": {
+      "url": "https://huggingface.co/palemoky/douzero-baselines/resolve/57b3914046c2a0877016b8b8830fd07cf5b0ba08/checkpoints/douzero_WP/landlord_up.ckpt",
+      "checkpoint_sha256": "b849ea518e66f088d635d3a29956da880f7b5ca89fabc5f70fc356c106ca6a15",
+      "binary_sha256": "51583565da58bf2c53317d699aea31439453aca46ffd7d6baefedb3811638c37",
+      "bytes": 6058908,
+      "parameters": 1514497,
+      "tensors": [
+        {
+          "name": "lstm.weight_ih_l0",
+          "shape": [
+            162,
+            512
+          ],
+          "length": 82944
+        },
+        {
+          "name": "lstm.weight_hh_l0",
+          "shape": [
+            128,
+            512
+          ],
+          "length": 65536
+        },
+        {
+          "name": "lstm.bias_ih_l0",
+          "shape": [
+            512
+          ],
+          "length": 512
+        },
+        {
+          "name": "lstm.bias_hh_l0",
+          "shape": [
+            512
+          ],
+          "length": 512
+        },
+        {
+          "name": "dense1.weight",
+          "shape": [
+            612,
+            512
+          ],
+          "length": 313344
+        },
+        {
+          "name": "dense1.bias",
+          "shape": [
+            512
+          ],
+          "length": 512
+        },
+        {
+          "name": "dense2.weight",
+          "shape": [
+            512,
+            512
+          ],
+          "length": 262144
+        },
+        {
+          "name": "dense2.bias",
+          "shape": [
+            512
+          ],
+          "length": 512
+        },
+        {
+          "name": "dense3.weight",
+          "shape": [
+            512,
+            512
+          ],
+          "length": 262144
+        },
+        {
+          "name": "dense3.bias",
+          "shape": [
+            512
+          ],
+          "length": 512
+        },
+        {
+          "name": "dense4.weight",
+          "shape": [
+            512,
+            512
+          ],
+          "length": 262144
+        },
+        {
+          "name": "dense4.bias",
+          "shape": [
+            512
+          ],
+          "length": 512
+        },
+        {
+          "name": "dense5.weight",
+          "shape": [
+            512,
+            512
+          ],
+          "length": 262144
+        },
+        {
+          "name": "dense5.bias",
+          "shape": [
+            512
+          ],
+          "length": 512
+        },
+        {
+          "name": "dense6.weight",
+          "shape": [
+            512,
+            1
+          ],
+          "length": 512
+        },
+        {
+          "name": "dense6.bias",
+          "shape": [
+            1
+          ],
+          "length": 1
+        }
+      ],
+      "reference_output_range": [
+        1.619751214981079,
+        2.0313990116119385
+      ]
+    }
+  }
+}

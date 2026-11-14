@@ -1,0 +1,37 @@
+/work/dist/doudizhu-v1.8.0-arm64.apk
+Verifies
+Verified using v1 scheme (JAR signing): false
+Verified using v2 scheme (APK Signature Scheme v2): true
+Verified using v3 scheme (APK Signature Scheme v3): false
+Verified using v3.1 scheme (APK Signature Scheme v3.1): false
+Verified using v4 scheme (APK Signature Scheme v4): false
+Verified for SourceStamp: false
+Number of signers: 1
+Signer #1 certificate DN: C=US, O=Android, CN=Android Debug
+Signer #1 certificate SHA-256 digest: eefa19f3c7ac5d8b59604b43c660ed8c58dc4ef1617f44fbbdfa6c80944880a2
+Signer #1 certificate SHA-1 digest: 690fd62dac6eeba72b5ac12349c3baf64adbede0
+Signer #1 certificate MD5 digest: eb2f05ea495304a92e8e2946d9ce68d9
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: f9641c6b383d9ddb10bcd3735d0a86ae579a7daccf23ffaa78163fa7c9d3b678
+Signer #1 public key SHA-1 digest: 19d84f0bbc0bda18e9b87bd4bff5fd6487d754f6
+Signer #1 public key MD5 digest: ede3854fb8b5dc04ef6a2c1fa15822b3
+
+/work/dist/doudizhu-v1.8.0-armv7.apk
+Verifies
+Verified using v1 scheme (JAR signing): false
+Verified using v2 scheme (APK Signature Scheme v2): true
+Verified using v3 scheme (APK Signature Scheme v3): false
+Verified using v3.1 scheme (APK Signature Scheme v3.1): false
+Verified using v4 scheme (APK Signature Scheme v4): false
+Verified for SourceStamp: false
+Number of signers: 1
+Signer #1 certificate DN: C=US, O=Android, CN=Android Debug
+Signer #1 certificate SHA-256 digest: eefa19f3c7ac5d8b59604b43c660ed8c58dc4ef1617f44fbbdfa6c80944880a2
+Signer #1 certificate SHA-1 digest: 690fd62dac6eeba72b5ac12349c3baf64adbede0
+Signer #1 certificate MD5 digest: eb2f05ea495304a92e8e2946d9ce68d9
+Signer #1 key algorithm: RSA
+Signer #1 key size (bits): 2048
+Signer #1 public key SHA-256 digest: f9641c6b383d9ddb10bcd3735d0a86ae579a7daccf23ffaa78163fa7c9d3b678
+Signer #1 public key SHA-1 digest: 19d84f0bbc0bda18e9b87bd4bff5fd6487d754f6
+Signer #1 public key MD5 digest: ede3854fb8b5dc04ef6a2c1fa15822b3

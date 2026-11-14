@@ -1,0 +1,94 @@
+{
+  "originals": {
+    "avatar-man.png": {
+      "bytes": 1940036,
+      "sha256": "a2131019c3e8a7225dedf88420e70d6a9c2997ba4e63ad270df79a0af33de12e"
+    },
+    "avatar-owner.png": {
+      "bytes": 2255057,
+      "sha256": "b4e4b22331dc2765c9acb81fdfeb0fdbb2899768e8599093487e7491dfaccce0"
+    },
+    "avatar-woman.png": {
+      "bytes": 2002671,
+      "sha256": "d6f62a743fedb736ef217cf2cd94400a5af597649ec457f1362d1ec1cfd81705"
+    },
+    "back.png": {
+      "bytes": 3471725,
+      "sha256": "6279b1b73fa00ac836bf61139b385c9de30afa9ec2734ac63db748ed1ea48276"
+    },
+    "hero.png": {
+      "bytes": 3475731,
+      "sha256": "55ba3ba77f730afdf6b81288324aff5671fa303eb4ae94fb24e388286dd6fa25"
+    },
+    "icon.png": {
+      "bytes": 2397330,
+      "sha256": "f6a5a7081bb9a220a4760b4ec39be3ee5c6760d7f9b88fab4d401cfa94d60843"
+    },
+    "joker-big.png": {
+      "bytes": 2565996,
+      "sha256": "ab7e4aece90212fb5434402929987babaedb8db44745e6ccdb583ab1daef4fb4"
+    },
+    "joker-small.png": {
+      "bytes": 2599530,
+      "sha256": "4461f8036752814cb496dc6a10ac06cd70e7b82ba2ae00ce212f60b1950aeaa4"
+    },
+    "panel.png": {
+      "bytes": 2007690,
+      "sha256": "1f0d78be5c1cadc0fbe928d18ef0321f765eb5aa3e1f22604db87093aa5068d2"
+    },
+    "seal.png": {
+      "bytes": 2143595,
+      "sha256": "8a01f107a86ce4a4d7460f0c921d79ef792ed47b77157c664a615a978888a5b6"
+    },
+    "table.png": {
+      "bytes": 3116342,
+      "sha256": "b8b23071507ce65d94803778626384e4e0bdafcbebcb78fed42ab7d8bc2e0e7a"
+    }
+  },
+  "runtime": {
+    "app-icon-v2.webp": {
+      "bytes": 89662,
+      "sha256": "25ae44e040c78d888c83e0e416bd33d2e19360cbfe30c9bf5bf59b060209e550"
+    },
+    "card-back-v2.webp": {
+      "bytes": 232748,
+      "sha256": "744ee9d45502c0bd3c032704a0e3504cb0c1970ee165f07e174ff7f7c502540f"
+    },
+    "friends-v2.webp": {
+      "bytes": 545672,
+      "sha256": "e9fd00999ad241d2377996dc1327c7528f3d9a8b3684927f29a4f9a01f4bb19f"
+    },
+    "joker-big-v2.webp": {
+      "bytes": 86834,
+      "sha256": "246cb870a9d0841db51ff6840094b7d4145acefa08db89d2cc689b51c7e0e1a2"
+    },
+    "joker-small-v2.webp": {
+      "bytes": 92238,
+      "sha256": "d7dde8de9143eb15f4fb1b22569ffd9482e451e3f47ab2102eafbb99d90ec38a"
+    },
+    "oak-ui-v2.webp": {
+      "bytes": 58594,
+      "sha256": "5a27d67a3cb99cd7ddd737e4ce1a92cfc213dc107cbf14347a1895a0b77e5f22"
+    },
+    "player-man-v2.webp": {
+      "bytes": 52992,
+      "sha256": "205b6520fbe136b38ab899b56be6c31117d24cdc6fa1ef2a2da9f834c43e80d0"
+    },
+    "player-owner-v2.webp": {
+      "bytes": 75606,
+      "sha256": "3bd382df327fb32ff9f1dacbd1e7c6a73ad085a126b24e18765282c1cf364c0d"
+    },
+    "player-woman-v2.webp": {
+      "bytes": 58118,
+      "sha256": "79189c3fbef4fb446a3e54f7cf2298ea9419678c170df5c02b15c5245edb7c79"
+    },
+    "result-seal-v2.webp": {
+      "bytes": 69958,
+      "sha256": "0d0307bf692e5f26730998b8d17eaeabdea9b9771aaa742695450121d257e381"
+    },
+    "table-linen-v2.webp": {
+      "bytes": 366158,
+      "sha256": "473edb25b74c47d263644d918a95577590f4b6a2451e17ffca32093ec29af6fb"
+    }
+  }
+}
